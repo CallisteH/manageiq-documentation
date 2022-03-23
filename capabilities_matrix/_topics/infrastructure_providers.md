@@ -5,7 +5,7 @@
 | Discovery                                                    | vSphere | oVirt / RHV | SCVMM | OpenStack undercloud    | IBM Power HMC | KubeVirt |
 | ------------------------------------------------------------ | ------- | ----------- | ----- | ----------------------- | ------------- | -------- |
 | Compute Inventory                                            | ✅      | ✅          | ✅    | ✅ (Nodes and Services) | ✅            | ✅         |
-| Network Inventory                                            | ✅      | ✅ (OVN)    | ❌    | ❌                      | ✅            | ❌          |
+| Network Inventory                                            | ✅      | ✅ (OVN)    | ❌    | ❌                      | ❌            | ❌          |
 | Storage Inventory                                            | ✅      | ❌          | ❌    | ❌                      | ❌            | ✅         |
 | Events                                                       | ✅      | ✅          | ✅    | ✅                      | ✅            | ❌          |
 | Metrics                                                      | ✅      | ✅          | ✅    | ✅                      | ❌            | ❌          |
